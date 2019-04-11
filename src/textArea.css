@@ -1,0 +1,20 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+
+textarea{
+resize: none;
+}
+
+button {
+margin: 10px auto 10px;
+width: 50%;
+padding: 10px;
+border-radius: 5%;
+color: white;
+font-size: 18px;
+background-color: rgba(84,122,165,1);
+}
